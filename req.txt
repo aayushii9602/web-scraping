@@ -1,0 +1,5 @@
+requests
+fake-useragent
+bs4
+requests-html
+lxml_html_clean
