@@ -2,5 +2,6 @@
 .venv
 env/
 venv/
-.html
+*.html
 __pycache__/
+*.pyc
