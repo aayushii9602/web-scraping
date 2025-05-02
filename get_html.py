@@ -2,7 +2,7 @@ import requests
 import time
 from fake_useragent import UserAgent
 
-target_url="https://dsdoc.dsone.3ds.com/devdoc/3DEXPERIENCER2018x/en/DSInternalDoc.htm"
+target_url="some_url"
 
 req=requests.get(target_url)
 
